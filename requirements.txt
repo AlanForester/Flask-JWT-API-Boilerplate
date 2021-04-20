@@ -13,7 +13,7 @@ Jinja2==2.8
 Mako==1.0.4
 MarkupSafe==0.23
 psycopg2==2.6.2
-py==1.4.31
+py==1.10.0
 py-bcrypt==0.4
 pycparser==2.14
 pytest==3.0.1
